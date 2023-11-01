@@ -3,4 +3,4 @@ Hi My name is Kholik Muzaki <img src="https://raw.githubusercontent.com/iampavan
 
 <b>My GitHub Stats</b>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kholik%20Muzaki&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kholik%20Muzaki&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a>
