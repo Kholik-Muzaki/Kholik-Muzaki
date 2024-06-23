@@ -34,37 +34,6 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=Kholik-Muzaki&style=for-the-badge&color=orange" alt=""/>
 </div>
-### 🛠️ Skills
-
-<div style="overflow: hidden;">
-  <div style="white-space: nowrap; overflow: hidden;">
-    <div style="display: inline-block; animation: slide 15s linear infinite;">
-      <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-      <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
-      <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=java&logoColor=007396">
-      <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26">
-      <img src="https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6">
-      <img src="https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap&logoColor=563D7C">
-      <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
-      <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js">
-      <img src="https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express">
-      <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php">
-      <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql">
-      <img src="https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel">
-    </div>
-  </div>
-</div>
-
-<style>
-@keyframes slide {
-  0% {
-    transform: translateX(100%);
-  }
-  100% {
-    transform: translateX(-100%);
-  }
-}
-</style>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
