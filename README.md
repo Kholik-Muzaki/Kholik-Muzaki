@@ -4,7 +4,7 @@
 
 <h1 align="center">
   Hey There, I'm Kholik
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 </h1>
 <p>
   Welcome to my GitHub corner, where the commits are plenty, the bugs are elusive, and the coffee is always brewing! ☕
