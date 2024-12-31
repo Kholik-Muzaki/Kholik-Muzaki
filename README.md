@@ -1,38 +1,64 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
 </div>
 
 <h1 align="center">
-  Hey There, I'm Kholik
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+  Hi, I'm Kholik! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<p>
-  Welcome to my GitHub corner, where the commits are plenty, the bugs are elusive, and the coffee is always brewing! ☕
+
+<p align="center">
+  A passionate developer who loves solving problems, building innovative projects, and learning new technologies. 🚀
 </p>
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Kholik-Muzaki&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
-  <br>
-  </br>
-</td>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kholik-Muzaki&style=flat-square&color=brightgreen" alt="Profile Views"/>
+</p>
 
-<td width="50%" align="center">
+---
 
- 
-  </td>
-</tr>
+## 📊 GitHub Statistics:
+
+<table align="center" style="width: 100%;">
+  <tr>
+    <td align="center" style="width: 50%;">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=Kholik-Muzaki&theme=radical&show_icons=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats" 
+        alt="GitHub Stats" 
+        width="90%"
+        style="border-radius: 8px; box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);"
+      />
+    </td>
+    <td align="center" style="width: 50%; height: auto;">
+      <div style="display: flex; align-items: center; justify-content: center; height: 150px;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kholik-Muzaki&layout=compact&theme=radical&hide_border=true&custom_title=Top%20Languages" 
+          alt="Most Used Languages" 
+          width="100%"
+          height="150px"
+          style="border-radius: 8px; box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);"
+        />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 50%;">
+      <img 
+        src="https://streak-stats.demolab.com?user=Kholik-Muzaki&theme=radical&hide_border=true" 
+        alt="GitHub Streak" 
+        width="90%"
+        style="border-radius: 8px; box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);"
+      />
+    </td>
+    <td align="center" style="width: 50%;">
+      <img 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kholik-Muzaki&theme=algolia" 
+        alt="Contribution Graph" 
+        width="90%"
+        style="border-radius: 8px; box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.2);"
+      />
+    </td>
+  </tr>
 </table>
 
- 
-
-
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kholik-Muzaki&style=for-the-badge&color=orange" alt=""/>
-</div>
-
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
-
+---
